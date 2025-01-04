@@ -120,4 +120,10 @@ brew install awscli
 1. FREE TIER ACCOUNT
 2. IAM WITH MFA
 3. BILLING ALARM
-4. CERTIFICATE SETUP 
+4. CERTIFICATE SETUP
+
+## Signup Pages : 
+1. github
+2. Docker hub
+3. Sonarcloud io
+   
