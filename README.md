@@ -1,1 +1,26 @@
-The Learning Main Repo : https://github.com/hkhcoder/vprofile-project
+# Learn-DevOps
+
+### The Learning Main Repo : https://github.com/hkhcoder/vprofile-project
+
+## Required Tools : 
+1. ORACLE VM VIRTUALBOX
+2. GIT BASH
+3. VAGRANT
+4. CHOCOLATEY/BREW
+5. JDK8
+6. MAVEN
+7. INTELLIJ
+8. SUBLIME TEXT EDITOR
+9. AWS CLI
+
+## Required Sign up :
+1. GITHUB
+2. DOMAIN PURHASE(GODADDY)
+3. DOCKERHUB
+4. SONARCLOUD
+
+## AWS : 
+1. FREE TIER ACCOUNT
+2. IAM WITH MFA
+3. BILLING ALARM
+4. CERTIFICATE SETUP 
